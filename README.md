@@ -7,16 +7,23 @@ It focuses on clean data preparation, SQL-based exploration, and interpretable a
 The project is designed as a **portfolio showcase**, demonstrating a complete workflow from raw data to structured database queries.
 
 ---
-
 ## 🧭 Project Components
 The repository is organized by analytical tasks rather than by timeline:
 
-- 🎓 **Incident Analysis** – normalized analysis of school incident data across schools and boroughs  
-- 🏫 **School Directory Exploration** – structural differences in school distribution, enrollment size, and grade spans  
-- 🧬 **Database Exploration** – SQL-based relational analysis of school attributes and demographics  
-- 🔄 **Basic ETL Pipeline** – cleaning and loading SAT performance data into PostgreSQL  
+- 🎓 **[Incident Analysis](incident_analysis/)**  
+  Normalized analysis of school incident data across schools and boroughs
+
+- 🏫 **[School Directory Exploration](school_directory_exploration/)**  
+  Structural differences in school distribution, enrollment size, and grade spans
+
+- 🧬 **[Database Exploration](database_queries/)**  
+  SQL-based relational analysis of school attributes and demographics
+
+- 🔄 **[Basic ETL Pipeline](database_population/)**  
+  Cleaning and loading SAT performance data into PostgreSQL
 
 Each component contains a dedicated README describing methodology and details.
+
 
 ---
 
