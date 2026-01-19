@@ -16,9 +16,10 @@ populations are distributed across boroughs.
 ## 📈 Visualisations
 Average number of schools and students per borough based on the NYC School Directory.
 
-![Number of schools per borough](/visuals/Avg-number-schools-per-borough.png)
+![Number of schools per borough](visuals/Avg-number-schools-per-borough.png)
 
-![Number of students per borough](/visuals/Avg-number-students-per-borough.png)
+![Number of students per borough](visuals/Avg-number-students-per-borough.png)
+
 
 ---
 
