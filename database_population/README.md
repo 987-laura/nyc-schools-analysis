@@ -29,13 +29,14 @@ The focus of this task is on **data quality**, **schema alignment**, and
 - `SAT Critical Reading Avg. Score`  
 - `SAT Math Avg. Score`  
 - `SAT Writing Avg. Score`  
+- `pct_students_tested`
 
 **Excluded columns**
 - `SCHOOL NAME`: already available in the High School Directory  
 - Duplicate or inconsistently named score columns  
 - Internal identifiers replaced by DBN  
 - Contact and administrative fields without analytical value  
-- `pct_students_tested` and `academic_tier_rating`: out of scope for this analysis  
+- `academic_tier_rating`: out of scope for this analysis  
 
 ---
 
